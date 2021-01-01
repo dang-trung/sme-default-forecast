@@ -20,13 +20,12 @@
 * **Objective**: Project for my intern at
 [Research Center VERA](https://www.unive.it/pag/35190/), Ca' Foscari University of Venice.
 
-* **Abstract**: Developed a random forest model based on a highly unbalanced dataset of 10K Italian SMEs (labeled with default/active businesses) to forecast which is going to default with 87% accuracy
+* **Abstract**: Developed a random forest model based on a  dataset of 10K Italian SMEs (labeled with default/active businesses) to forecast which is going to default with 87% accuracy (improved from an original accuracy of 68% by implementing techniques with highly unbalanced datasets)
 
 * **Status**: Completed
 
 ### Methods Used
-* Random Forests
-* Deal with highly unbalanced dataset
+* Random Forests (Highly Unbalanced Dataset)
 
 ### Dependencies
 * randomForest
